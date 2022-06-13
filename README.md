@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=F76E49&lines=+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%A6%AF+who+are+forkwayer+%3F;%F0%9F%A5%B7++Those+keep+saying+hello+world+.............)](https://git.io/typing-svg)
 
 
-<!-- <div align="center"><img src="https://raw.githubusercontent.com/Leizhenpeng/Leizhenpeng/main/assets/github-contribution-grid-snake.svg" ></div> -->
+<div align="center"><img src="https://raw.githubusercontent.com/Leizhenpeng/Leizhenpeng/main/assets/github-contribution-grid-snake.svg" ></div>
 
 
 
@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- -->
+
