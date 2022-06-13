@@ -1,4 +1,4 @@
-<h1 align="center">God dag 👋,  I'm River & I ❤️ code.</h1>
+<h1 align="center">God dag 👋,  I'm River </h1>
 <h3 align="center">A software developer from Wuhan </h3>
 
 
@@ -14,13 +14,13 @@
 
 ## 📅 Hobbies
 - running at 7:00 🧑🏼‍🦽
-- Reading by the lake 
+- reading by the lake 
 - developing cool product
 - etc.
 
 ## 💻 Current project
 - [我要传文件](https://51cwj.com)
-- [semen]()
+- [semen-师门]()
 
 
 <!-- **Leizhenpeng/Leizhenpeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
