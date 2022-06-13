@@ -1,8 +1,8 @@
 <h1 align="center">God dag 👋,  I'm River </h1>
-<h3 align="center">A software developer from Wuhan </h3>
+<h3 align="center">A software developer in Forkway </h3>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=F76E49&lines=+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%A6%AF+who+are+forkwayer+%3F;%F0%9F%A5%B7++Those+keep+saying+hello+world+.............)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&duration=10000&color=F7874E&height=56&lines=%F0%9F%A4%B7%F0%9F%8F%BB+who+is+forkwayer%3F;%F0%9F%A5%B7+Those+who+are+saying+hello+to+world+.)](https://git.io/typing-svg)
 
 
 ## 💬 Talk with me 
