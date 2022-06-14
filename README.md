@@ -15,12 +15,13 @@
 ## 💬 Talk with me 
 - Backend web development(nestjs)
 - Frontend web development(vue,uniapp,react)
-- Cool idea about production.
+- Cool idea about production
 
 ## 📅 Hobbies
 - running at 7:00 🧑🏼‍🦽
 - reading by the lake 
-- developing cool product
+- developing warm product
+- sleeping before 24:00 🚼
 - etc.
 
 ## 💻 Current project
