@@ -24,11 +24,12 @@
 - etc.
 
 ## 🏗 current working
-- [CāiCí-猜词](https://caici.forkway.cn)
+- 📋 [CāiCí-猜词](https://caici.forkway.cn)
+
 ## 💻 nice project
-- [51cwj-我要传文件](https://51cwj.com)
-- [simen-师门]()
-- [bookCentro-起阅](https://web-uat.bookcentro.net/zh-HK/)
+- 📃 [51cwj-我要传文件](https://51cwj.com)
+- 🏫 [SiMen-师门]()
+- 👓 [BookCentro-起阅](https://web-uat.bookcentro.net/zh-HK/)
 
 
 
