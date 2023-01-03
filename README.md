@@ -1,4 +1,7 @@
 
+
+
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" >
 </div>
@@ -47,3 +50,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leizhenpeng&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leizhenpeng&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leizhenpeng&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leizhenpeng&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leizhenpeng&theme=github_dark)
