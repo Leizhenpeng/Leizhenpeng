@@ -23,8 +23,8 @@
 
 
 ## 💬 Talk with me 
-- Backend web development(nestjs)
-- Frontend web development(vue,uniapp,react)
+- Backend web development(nodejs,go,rust)
+- Frontend web development(vue,uniapp,react,qwik)
 - Cool idea about production
 
 ## 📅 Hobbies
