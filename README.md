@@ -1,36 +1,30 @@
 
-
-
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" >
 </div>
 
 
-<h1 align="center">God dag 👋,  I'm River </h1>
-<h3 align="center">A software developer in Forkway </h3>
 
-<!-- ## 🏗 Current Working
-- 📋 [CāiCí-猜词](https://caici.forkway.cn)
-- 🥞 [WpsFigmaSync](https://wps-figma-sync.netlify.app/)
- -->
+### God dag 👋,  I'm River
 
+Love programming and reading 
 
-<!-- ## 💻 Nice Project
-- 📃 [51cwj-我要传文件](https://51cwj.com)
-- 👓 [BookCentro-起阅](https://web-uat.bookcentro.net/zh-HK/)
- -->
+[![blog](https://img.shields.io/badge/-Blog-white?style=flat-square)](https://leizhenpeng.com/)
+[![Jike](https://img.shields.io/badge/-Jike-yellow?style=flat-square)](https://web.okjike.com/u/29910575-F12D-4E48-9DDE-B25FE55D1F94)
+[![Email](https://img.shields.io/badge/-laolei@forkway.cn-grey?style=flat-square&logo=gmail)](mailto://laolei@frokway.cn/)
 
 
-## 💬 Talk with me 
-- Backend web development(nodejs,go,rust)
-- Frontend web development(vue,uniapp,react,qwik)
-- Cool idea about production
 
-## 📅 Hobbies
+### Talk with me 
+- Backend web development (nodejs,golang,rust)
+- Frontend web development (vue,react)
+- Client development (chrom-crx,userscript,ios-app,electron)
+- Cool idea about production 
+
+### Hobbies
 - swimmming at 7:00  🏊‍♀️
 - reading by the lake 📚
-- developing warm product🏖
+- developing warm product 🏖
 - sleeping before 24:00 🚼
 - etc.
 
