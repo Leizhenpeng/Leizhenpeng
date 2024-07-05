@@ -11,7 +11,7 @@ Love programming and reading
 
 [![blog](https://img.shields.io/badge/-Blog-white?style=flat-square)](https://leizhenpeng.com/)
 [![Jike](https://img.shields.io/badge/-Jike-yellow?style=flat-square)](https://web.okjike.com/u/29910575-F12D-4E48-9DDE-B25FE55D1F94)
-[![Email](https://img.shields.io/badge/-laolei@forkway.cn-grey?style=flat-square&logo=gmail)](mailto://laolei@frokway.cn/)
+[![Email](https://img.shields.io/badge/-laolei@forkway.cn-grey?style=flat-square&logo=gmail)](mailto:laolei@frokway.cn)
 
 
 
